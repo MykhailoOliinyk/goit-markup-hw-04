@@ -108,6 +108,7 @@ img {
   margin-right: 10px;
   fill: currentColor;
 }
+
 .contakts-block {
   display: flex;
   margin-left: auto;
@@ -145,6 +146,10 @@ img {
   color: var(--accent-color);
 }
 
+.header-icon:hover,
+.header-icon:focus {
+  fill: var(--accent-color);
+}
 /*ГЕРОЙ СЕКЦИЯ */
 .visually-hidden {
   position: absolute;
