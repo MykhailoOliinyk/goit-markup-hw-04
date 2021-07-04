@@ -44,10 +44,9 @@ img {
 /* Шапка  logo */
 
 .head {
-  /* width: 1200px; */
   padding-top: 24px;
-  padding-bottom: 35px;
-  border-bottom: 1px solid #ececec width 100%;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #ececec;
   background: var(--font-color);
 }
 .haed-conteiner {
@@ -486,6 +485,7 @@ img {
 .label {
   margin-bottom: 20px;
   font-weight: 700;
+  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
